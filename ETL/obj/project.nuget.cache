@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVkBif34aLI=",
+  "success": true,
+  "projectFilePath": "/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/ETL.csproj",
+  "expectedPackageFiles": [
+    "/Users/kenneth/.nuget/packages/csvhelper/34.0.0/csvhelper.34.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

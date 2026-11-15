@@ -1,0 +1,17 @@
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/bin/Debug/net10.0/ETL
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/bin/Debug/net10.0/ETL.deps.json
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/bin/Debug/net10.0/ETL.runtimeconfig.json
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/bin/Debug/net10.0/ETL.dll
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/bin/Debug/net10.0/ETL.pdb
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/obj/Debug/net10.0/ETL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/obj/Debug/net10.0/ETL.AssemblyInfoInputs.cache
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/obj/Debug/net10.0/ETL.AssemblyInfo.cs
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/obj/Debug/net10.0/ETL.csproj.CoreCompileInputs.cache
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/obj/Debug/net10.0/ETL.dll
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/obj/Debug/net10.0/refint/ETL.dll
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/obj/Debug/net10.0/ETL.pdb
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/obj/Debug/net10.0/ETL.genruntimeconfig.cache
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/obj/Debug/net10.0/ref/ETL.dll
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/bin/Debug/net10.0/CsvHelper.dll
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/obj/Debug/net10.0/ETL.csproj.AssemblyReference.cache
+/Users/kenneth/code/joshlo/Untitled/LB-case/ETL/obj/Debug/net10.0/ETL.csproj.Up2Date

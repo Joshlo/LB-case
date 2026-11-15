@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ETL.Tests/ETL.Tests.csproj" />
+  <Project Path="ETL/ETL.csproj" />
+</Solution>
